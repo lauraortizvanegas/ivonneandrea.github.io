@@ -1,0 +1,38 @@
+body{
+    font-family: 'ABeeZee', sans-serif;
+ }
+ 
+  .fondo_verde{
+     background-color: purple;
+  }
+ 
+  .nav-link{
+     color: white;
+  }
+ 
+  .img_header{
+    background-image: url("../img/img_principal.JPG");
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ 
+ .seccion_academica{
+    background-color: green;
+ }
+ 
+ .seccion_laboral{
+    background-color: violet;
+ }
+  .card_imagenes{
+     width: 18rem;
+     
+  }
+ 
+  .container{
+     margin-top: 50px;
+     margin-bottom: 50px;
+ 
+  }
+ 
+  
